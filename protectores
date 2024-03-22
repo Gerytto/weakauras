@@ -78,11 +78,11 @@
         ["start"] = {
             ["do_glow"] = false,
             ["glow_action"] = "show",
-            ["glow_frame"] = "WeakAuras:Corrupción Henchida",
+            ["glow_frame"] = "WeakAuras:Garrote",
         },
         ["finish"] = {
             ["do_glow"] = false,
-            ["glow_frame"] = "WeakAuras:Corrupción Henchida",
+            ["glow_frame"] = "WeakAuras:Garrote",
             ["glow_action"] = "hide",
         },
     },
